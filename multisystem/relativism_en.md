@@ -1,3 +1,4 @@
+# Relativistic approach. Correlations.
 ## 1. Fundamentals of Correlation Analysis
 
 Inter-system correlation is a principle of the practical application of typologies, based on the premise that not every combination of types can describe a single individual.
