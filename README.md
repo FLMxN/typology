@@ -11,6 +11,9 @@ typology/
 │   ├── relativism_en.md
 │   └── relativism_ru.md
 ├── psychosophy/
+│   ├── argumentation_elements/
+│   │   └── first_volition.md
+│   └── volition.md
 ├── socionics/
 ├── LICENSE
 └── README.md
